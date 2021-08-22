@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 😊, I am Uliana Eskova
 
-<!--
-**justUlik/justUlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am studying in the IT class of the Moscow school called Silaedr. This is a great place where people can study hard and make interesting projects.
 
-Here are some ideas to get you started:
+***👩🏻‍💻 These are mine***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Metroquiz](https://github.com/MetroQuiz)
+* [CheckOlympiads](https://github.com/uliana2006eskova/check_olympiads)
+* [MathBattle](https://github.com/CoffeBee/MathBattle)
+
+***:dove: How to contact me***
+
+* :email: **Email**: uliana.eskova@gmail.com
+
+* 💬 **Telegram**: [@ulianaeskova](https:/t.me/ulianaeskova)
+
+⚡ ***Fun fact*** I am also interested in sport programming
+
