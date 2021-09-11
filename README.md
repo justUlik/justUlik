@@ -12,7 +12,7 @@ I am studying in the IT class of the Moscow school called Silaedr. This is a gre
 
 * :email: **Email**: uliana.eskova@gmail.com
 
-* 💬 **Telegram**: [@ulianaeskova](https:/t.me/ulianaeskova)
+* 💬 **Telegram**: [@ulianaeskova](https://t.me/ulianaeskova)
 
 ⚡ ***Fun fact*** I am also interested in sport programming
 
