@@ -1,6 +1,6 @@
 ### Hi there 😊, I am Uliana Eskova
 
-I am studying in the IT class of the Moscow school called Silaeder. This is a great place where people can study hard and make interesting projects.
+I am studying at HSE University, 1 year finished. This is a great place where people can study hard and make interesting projects.
 
 ***👩🏻‍💻 These are mine***
 
