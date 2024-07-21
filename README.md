@@ -14,5 +14,5 @@ I am studying at HSE University, 1 year finished. This is a great place where pe
 
 * 💬 **Telegram**: [@ulianaeskova](https://t.me/ulianaeskova)
 
-⚡ ***Fun fact*** I am also interested in sport programming
+⚡ ***Fun fact*** I am also interested in design
 
